@@ -1,0 +1,1 @@
+-This is simple project to learn the API handeling in javascript in which I learn how to handel the API how to get the information and display in the interface after some operations.
